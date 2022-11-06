@@ -1,4 +1,4 @@
-# Hello GitHub!
+# I painted the house red
 
 We're learning to work with remote repositories!
 
