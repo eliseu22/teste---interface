@@ -1,4 +1,4 @@
-# Hello GitHub!
+# Green House
 
 We're learning to work with remote repositories!
 
