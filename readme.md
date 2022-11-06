@@ -1,4 +1,4 @@
-# I painted the house red
+# I painted the house red and green!
 
 We're learning to work with remote repositories!
 
